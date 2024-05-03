@@ -10,6 +10,7 @@
     justify-content: space-around;
     align-items: center;
     padding: 22px 0;
+    font-family: "Poppins",sans-serif;
 }
 
 .cabecalho-imagem{
@@ -18,12 +19,12 @@
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
+    margin: 0 18px;
     font-size: 24px;
 }
 
 .escola-imagem {
-    width: 20%;
+    width: 12%;
 }
 
 .escola{
@@ -32,14 +33,17 @@
 display: flex;
 justify-content: center;
 align-items: center;
-padding: 24px 0;
-
+padding: 38px 0;
+font-family: "Poppins", sans-serif;
+text-align: center;
 }
 
 .escola-div-conteudo{
-    width: 30;
+    width: 18;
 }
 
 .escola-titulo{
     padding: 24px 0;
+    font-size: 35px;
+    font-align: center;
 }
