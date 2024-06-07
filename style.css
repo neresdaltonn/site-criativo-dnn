@@ -45,7 +45,7 @@ text-align: center;
 .escola-titulo{
     padding: 24px 0;
     font-size: 35px;
-    font-align: center;
+    align-items: center;
 }
 
 .estudante-imagem{
@@ -54,4 +54,35 @@ text-align: center;
 
 .estudante-icone{
     width: 50px;
+}
+
+.estudante-div{
+    text-align: center;
+    padding: 20px 20px;
+}
+
+.estudante{
+    background-image: linear-gradient(#32CC0B, #00B2FF);
+}
+
+.estudante-titulo{
+    text-align: center;
+    font-size: 32px;
+    padding: 30px 0;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.rodape{
+    background-color: #000000;
+    text-align: center;
+}
+
+.rodape-texto{
+    color: #FFFFFF;
+    font-size: 32px;
+    padding: 12px 0;
 }
